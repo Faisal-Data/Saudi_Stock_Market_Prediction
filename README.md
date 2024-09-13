@@ -19,5 +19,10 @@ finally I used gradio to make the interface.
 
 To run the code, you need to install all the libraries listed in the requirements.txt file and ensure that the stock_data.xlsx file is in the correct directory. Alternatively, you can try it on the Hugging Face space: https://huggingface.co/spaces/Faisal-Data/Saudi_Stock_Market_Prediction.
 
+Example input:
+name	final price today	highest price today	lowest price today	change today	percentage of change today	size	last update time	future_price
+التعاونية	155.4	156.6	154.2	0.4	0.26%	181.41K	15:15:59	152.6
+![image](https://github.com/user-attachments/assets/d46ec294-25a9-493e-915c-b1d54a30ebc5)
+
 
 
